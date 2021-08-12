@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.laoluomc.cf</id>
-    <title>老罗MC博客</title>
-    <updated>2021-08-12T09:26:01.303Z</updated>
+    <title>Luoziyang的博客</title>
+    <updated>2021-08-12T09:28:50.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.laoluomc.cf"/>
     <link rel="self" href="https://blog.laoluomc.cf/atom.xml"/>
-    <subtitle>Laoluomc&apos;s Blog</subtitle>
+    <subtitle>Luoziyang&apos;s Blog</subtitle>
     <logo>https://blog.laoluomc.cf/images/avatar.png</logo>
     <icon>https://blog.laoluomc.cf/favicon.ico</icon>
-    <rights>All rights reserved 2021, 老罗MC博客</rights>
+    <rights>All rights reserved 2021, Luoziyang的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
         <id>https://blog.laoluomc.cf/post/hello/</id>
