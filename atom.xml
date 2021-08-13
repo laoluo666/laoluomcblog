@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cnblog.laoluomc.cf</id>
+    <id>https://blog.laoluomc.cf</id>
     <title>Luoziyang的博客</title>
-    <updated>2021-08-13T01:39:32.891Z</updated>
+    <updated>2021-08-13T11:53:12.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cnblog.laoluomc.cf"/>
-    <link rel="self" href="https://cnblog.laoluomc.cf/atom.xml"/>
+    <link rel="alternate" href="https://blog.laoluomc.cf"/>
+    <link rel="self" href="https://blog.laoluomc.cf/atom.xml"/>
     <subtitle>Luoziyang&apos;s Blog</subtitle>
-    <logo>https://cnblog.laoluomc.cf/images/avatar.png</logo>
-    <icon>https://cnblog.laoluomc.cf/favicon.ico</icon>
+    <logo>https://blog.laoluomc.cf/images/avatar.png</logo>
+    <icon>https://blog.laoluomc.cf/favicon.ico</icon>
     <rights>All rights reserved 2021, Luoziyang的博客</rights>
     <entry>
+        <title type="html"><![CDATA[南瓜]]></title>
+        <id>https://blog.laoluomc.cf/post/nan-gua/</id>
+        <link href="https://blog.laoluomc.cf/post/nan-gua/">
+        </link>
+        <updated>2021-08-13T11:53:02.000Z</updated>
+        <content type="html"><![CDATA[<p>666</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[欢迎来到Luoziyang的博客~]]></title>
-        <id>https://cnblog.laoluomc.cf/post/hello/</id>
-        <link href="https://cnblog.laoluomc.cf/post/hello/">
+        <id>https://blog.laoluomc.cf/post/hello/</id>
+        <link href="https://blog.laoluomc.cf/post/hello/">
         </link>
         <updated>2021-08-12T09:24:07.000Z</updated>
         <content type="html"><![CDATA[<p>我又回啦了！<br>
-<img src="https://cnblog.laoluomc.cf/post-images/1628760260174.gif" alt="" loading="lazy"><br>
+<img src="https://blog.laoluomc.cf/post-images/1628760260174.gif" alt="" loading="lazy"><br>
 <em>这里是Luoziyang的个人博客，如果你不能读懂这些内容，你可以使用右上角的谷歌翻译进行语言转换:D</em></p>
 <p>**我会在这里分享一些有趣的内容给大家<br>
 包括教程，软件，网站等</p>
